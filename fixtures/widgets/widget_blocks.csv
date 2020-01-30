@@ -1,0 +1,7 @@
+block_identifier,type_code,theme_path,title,page_group,group_data
+foot-about,cms_static_block,frontend/Magenest/cf,foot-about,all_pages,"{""block"":""footer_columns_container"",""layout_handle"":""default""}"
+foot-help,cms_static_block,frontend/Magenest/cf,foot-help,all_pages,"{""block"":""footer_columns_container"",""layout_handle"":""default""}"
+foot-info,cms_static_block,frontend/Magenest/cf,foot-info,all_pages,"{""block"":""footer_columns_container"",""layout_handle"":""default""}"
+foot-contact,cms_static_block,frontend/Magenest/cf,foot-contact,all_pages,"{""block"":""footer_columns_container"",""layout_handle"":""default""}"
+foot-social,cms_static_block,frontend/Magenest/cf,foot-social,all_pages,"{""block"":""footer_top_container"",""layout_handle"":""default""}"
+foot-pay,cms_static_block,frontend/Magenest/cf,foot-pay,all_pages,"{""block"":""footer_top_container"",""layout_handle"":""default""}"

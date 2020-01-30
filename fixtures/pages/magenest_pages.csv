@@ -1,0 +1,106 @@
+title,page_layout,meta_keywords,meta_description,identifier,content_heading,content,is_active,sort_order,layout_update_xml,custom_theme,custom_root_template,custom_layout_update_xml,custom_theme_from,custom_theme_to,css_global,css_desktop
+New Product,1column,,,home,Home Page,"<div class=""block-slide-style1"">
+<div class=""owl-slide-style1"">
+<div class=""item-slide"">
+<img alt="""" src=""{{view url='images/theme/slide4.jpg'}}""> 
+</div>
+<div class=""item-slide"">
+<img alt="""" src=""{{view url='images/theme/slide4.jpg'}}""> 
+</div>
+</div>
+</div>
+<div class=""block-image-style1"">
+<a href=""#"" class=""image-colum1""><img alt="""" src=""{{view url='images/theme/image1.jpg'}}""> </a>
+<a href=""#"" class=""image-colum2""><img alt="""" src=""{{view url='images/theme/image2.jpg'}}""></a>
+<a href=""#"" class=""image-colum3""><img alt="""" src=""{{view url='images/theme/image3.jpg'}}""></a>
+<a href=""#"" class=""image-colum4""><img alt="""" src=""{{view url='images/theme/image4.jpg'}}""></a>
+</div>
+<div class=""block-new-style1"">
+{{widget type=""Magento\Catalog\Block\Product\Widget\NewWidget"" display_type=""new_products"" products_count=""10"" template=""Magento_Catalog::product/widget/new/content/new_grid.phtml""}} 
+</div>
+<div class=""block-sales-style1"">
+<div class=""container"">
+<div class=""column-left"">
+<img alt="""" src=""{{view url='images/theme/sale2-home3.jpg'}}""> 
+</div>
+<div class=""column-right"">
+{{widget type=""Magenest\Widget\Block\Product\Widget\HotSalesWidget"" title=""hot sale"" products_count=""10"" template=""Magenest_Widget::product/widget/sales/content/hot_sales_grid.phtml""}} 
+</div>
+</div>
+</div>
+<div class=""block-brand-client"">
+<div class=""block-brand-style1"">
+<div class=""block-title"">
+OUR BRAND
+</div>
+<div class=""owl-brand-style1"">
+<div class=""item"">
+<img alt="""" src=""{{view url='images/theme/dt1.jpg'}}""> 
+<img alt="""" src=""{{view url='images/theme/dt2.jpg'}}""> 
+</div>
+<div class=""item"">
+<img alt="""" src=""{{view url='images/theme/dt3.jpg'}}""> 
+<img alt="""" src=""{{view url='images/theme/dt4.jpg'}}""> 
+</div>
+<div class=""item"">
+<img alt="""" src=""{{view url='images/theme/dt5.jpg'}}""> 
+<img alt="""" src=""{{view url='images/theme/dt6.jpg'}}""> 
+</div>
+</div>
+</div>
+<div class=""block-client-style1"">
+<div class=""block-title"">
+CLIENT SAY
+</div>
+<div class=""owl-client-style1"">
+<div class=""item"">
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+<br>
+<b>- John Wick - </b>
+<p>Developer</p>
+</div>
+<div class=""item"">
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as</p>
+<br>
+<b>- John Wick - </b>
+<p>Developer</p>
+</div>
+</div>
+</div>
+</div>
+{{widget type=""Magenest\Blog\Block\Post\Widget\BlogPostsWidget"" blog_displays=""6"" template=""Magenest_Blog::post/widget/blog_posts.phtml"" title=""From The Blog""}}
+<div class=""block-3columns-text block-3columns-text-style1"">
+<div class=""container"">
+<div class=""col col-md-4"">
+<div class=""item"">
+<div class=""icon"">
+<em class=""fa fa-truck""></em>
+</div>
+<h3 class=""title"">Free shipping</h3>
+<p class=""text"">Free shipping on all UK orders</p>
+</div>
+</div>
+<div class=""col col-md-4"">
+<div class=""item"">
+<div class=""icon"">
+<em class=""fa fa-money""></em>
+</div>
+<h3 class=""title"">Monet guarentee</h3>
+<p class=""text"">30 days money back fuarentee</p>
+</div>
+</div>
+<div class=""col col-md-4"">
+<div class=""item"">
+<div class=""icon"">
+<em class=""fa fa-life-ring""></em>
+</div>
+<h3 class=""title"">Online support</h3>
+<p class=""text"">We support online 24/24 on day</p>
+</div>
+</div>
+</div>
+</div>",1,,"<!--
+<referenceContainer name=""right"">
+<action method=""unsetChild""><argument name=""alias"" xsi:type=""string"">right.reports.product.viewed</argument></action>
+<action method=""unsetChild""><argument name=""alias"" xsi:type=""string"">right.reports.product.compared</argument></action>
+</referenceContainer>-->",,,,,,,

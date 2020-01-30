@@ -1,0 +1,86 @@
+title,identifier,content
+foot-About,foot-about,"<div class=""widget block block-static-block"">
+<div class=""block-title"">
+<h3>About</h3>
+</div>
+<div class=""block-content"">Magenest is leading eCommerce company with professional solutions for Magento and Woocommerce platform. Besides, we provide integration services for installation of components on your systems or application of software for eCommerce businesses</div>
+</div>"
+foot-help,foot-help,"<div class=""widget block block-static-block"">
+<div class=""block-title"">
+<h3>HELP</h3>
+</div>
+<div class=""block-content"">
+<ul class=""link"">
+<li><a href=""#"">FAQ </a></li>
+<li><a href=""#"">ORDER TRACKING</a></li>
+<li><a href=""#"">SHIPPING AND HANDLING</a></li>
+<li><a href=""#"">PAYMENT METHODS</a></li>
+<li><a href=""#"">RET</a></li>
+</ul>
+</div>
+</div>"
+foot-info,foot-info,"<div class=""widget block block-static-block"">
+<div class=""block-title"">
+<h3>INFOMATION</h3>
+</div>
+<div class=""block-content"">
+<ul class=""link"">
+<li><a href=""#"">About Us </a></li>
+<li><a href=""#"">Delivery Information</a></li>
+<li><a href=""#"">Privacy Policy </a></li>
+<li><a href=""#"">Terms Conditions</a></li>
+<li><a href=""#"">Sevices</a></li>
+<li><a href=""#"">Customer service</a></li>
+</ul>
+</div>
+</div>"
+foot-contact,foot-contact,"<div class=""widget block block-static-block"">
+<div class=""block-title"">
+<h3>CONTACT US</h3>
+</div>
+<div class=""block-content"">
+<div class=""content-contact"">
+<table>
+<tbody>
+<tr>
+<td><i class=""fa fa-map-marker""></i></td>
+<td><span>5411 South Tripp Avenue Chicago, USA</span></td>
+</tr>
+<tr>
+<td><i class=""fa fa-phone""></i></td>
+<td><span>+1 773-767-2567</span> <br /><span>+1 773-436-0123</span></td>
+</tr>
+<tr>
+<td><i class=""fa fa-envelope""></i></td>
+<td><span>support@magenest.com</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>"
+foot-social,foot-social,"<div class=""widget block block-static-block"">
+<div class=""block-title"">
+<h3>social</h3>
+</div>
+<div class=""block-content"">
+<ul class=""link-social"">
+<li><a class=""link-facebook"" href=""#""><em class=""fa fa-facebook""></em><span>facebook</span></a></li>
+<li><a class=""link-twitter"" href=""#""><em class=""fa fa-twitter""></em><span>twitter</span></a></li>
+<li><a class=""link-google"" href=""#""><em class=""fa fa-google-plus""></em><span>google</span></a></li>
+<li><a class=""link-pinterest"" href=""#""><em class=""fa fa-pinterest-p""></em><span>pinterest</span></a></li>
+</ul>
+</div>
+</div>"
+foot-pay,foot-pay,"<div class=""widget block block-static-block"">
+<div class=""block-title"">
+<h3>Paypal</h3>
+</div>
+<div class=""block-content"">
+<ul class=""link-paypal"">
+<li><em class=""fa fa-cc-visa""></em><span>cc-visa</span></li>
+<li><em class=""fa fa-cc-paypal""></em><span>cc-paypal </span></li>
+<li><em class=""fa fa-cc-mastercard""></em><span>cc-mastercard </span></li>
+</ul>
+</div>
+</div>"
