@@ -47,7 +47,7 @@ class UpgradeData implements UpgradeDataInterface
     {
         $setup->startSetup();
         /** Install Widget */
-        if (version_compare($context->getVersion(), '1.0.0', '<')) {
+        if (version_compare($context->getVersion(), '2.3.1', '<')) {
             $this->updater->setWidgetToCreate('Magenest_CFSampleData::fixtures/widgets/widget_blocks.csv');
             $this->executor->exec($this->updater);
         }
