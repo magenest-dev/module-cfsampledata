@@ -2,14 +2,14 @@
   "name": "magenest/module-cfsampledata",
   "description": "CFSampleData extension by Magenest",
   "type": "magento2-module",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
   ],
   "require": {
     "magenest/core": "*",
-    "magenest/module-widget": "*"
+    "magenest/module-widget": "^1.0.3"
   },
   "autoload": {
     "files": [ "registration.php" ],

@@ -1,5 +1,5 @@
 title,page_layout,meta_keywords,meta_description,identifier,content_heading,content,is_active,sort_order,layout_update_xml,custom_theme,custom_root_template,custom_layout_update_xml,custom_theme_from,custom_theme_to,css_global,css_desktop
-New Product,1column,,,home,Home Page,"<div class=""block-slide-style1"">
+Home Page,1column,,,home,Home Page,"<div class=""block-slide-style1"">
 <div class=""owl-slide-style1"">
 <div class=""item-slide"">
 <img alt="""" src=""{{view url='images/theme/slide4.jpg'}}""> 
